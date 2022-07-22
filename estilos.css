@@ -2,8 +2,8 @@ html,body{
     margin:0px; 
     height: 100%
 }
-.bgimage {
-    background-image: url("/img/fondo.jpg");
+body {
+    background-image: url("img/fondo.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
