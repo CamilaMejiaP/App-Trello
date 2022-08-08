@@ -4,20 +4,30 @@
             "id": 1,
             "title": "frontend",
             "person": "Camila",
-            "details": "lorem ipsun amei dolor",
+            "details": "lorem ipsun amei dolor lorem ipsun amei dolorlorem ipsun amei dolor",
             "state": "done",
-            "deadline": 1212233435,
-            "created": 1212233434
+            "deadline": 1587632247,
+            "created": 7586664210
         },
         {
             
             "id": 2,
             "title": "Backend",
             "person": "Jhon doe",
-            "details": "lorem ipsun amei dolor",
+            "details": "lorem ipsun amei dolor lorem lorem ipsun amei dolorlorem ipsun amei dolorlorem ipsun amei dolor",
             "state": "to-do",
-            "deadline": 1212233435,
-            "created": 1212233434
+            "deadline": 7586664210,
+            "created": 1587632247
+        },
+        {
+            
+            "id": 3,
+            "title": "Ing Sistemas",
+            "person": "David",
+            "details": "Sube cambios al servidor lorem ipsun amei dolorlorem ipsun amei dolor",
+            "state": "in-progress",
+            "deadline": 7586864210,
+            "created": 1587672247
         }
     ]
 }
