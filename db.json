@@ -1,0 +1,23 @@
+{
+    "task": [
+        {
+            "id": 1,
+            "title": "frontend",
+            "person": "Camila",
+            "details": "lorem ipsun amei dolor",
+            "state": "done",
+            "deadline": 1212233435,
+            "created": 1212233434
+        },
+        {
+            
+            "id": 2,
+            "title": "Backend",
+            "person": "Jhon doe",
+            "details": "lorem ipsun amei dolor",
+            "state": "to-do",
+            "deadline": 1212233435,
+            "created": 1212233434
+        }
+    ]
+}
